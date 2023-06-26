@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <OutputType>Exe</OutputType>
+    <RuntimeIdentifier>win10-x64</RuntimeIdentifier>
+    <PublishSingleFile>true</PublishSingleFile>
+    <PublishTrimmed>false</PublishTrimmed>
+    <Authors>JV</Authors>
+  </PropertyGroup>
+
+</Project>
